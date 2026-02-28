@@ -64,4 +64,17 @@ footer{
 
 footer p{
     color: white;
+
+}
+
+/* Styling Skills section */
+#skills ul{
+    list-style: none;
+}
+
+#skills li{
+    background-color:  #ecf0f1;
+    padding: 10px;
+    margin: 10px 0;
+    border-left: 4px solid #3498db;
 }
