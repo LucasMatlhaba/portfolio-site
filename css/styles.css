@@ -1,0 +1,67 @@
+/* Formatting and styling the body*/
+body{
+    font-family: sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: #f4f4f4;
+}
+
+/*Styling the heading*/
+h1{
+    color: #34495e;
+    text-align: center;
+}
+
+h2{
+    color: #344953;
+    text-align: center;
+}
+
+/* Styling the paragraphs I added*/
+p{
+    line-height: 1.6;
+    color: #555;
+}
+
+/* Styling the naviagtion links*/
+nav{
+    background-color: #2c3e50;
+    padding: 20px;
+    text-align: center;
+    margin-left: -40px;
+    margin-right: -40px;
+    margin-bottom: 40px;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+}
+
+/* Styling the sections */
+section{
+    margin-bottom: 60px;
+    padding: 30px;
+    background-color: white;
+    border-radius: 8px;
+}
+
+section h2{
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 10px;
+}
+
+footer{
+    text-align: center;
+    padding: 20px;
+    background-color: #2c3e50;
+    color: white;
+    margin: -40px -40px -40px -40px;
+}
+
+footer p{
+    color: white;
+}
